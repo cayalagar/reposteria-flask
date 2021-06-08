@@ -9,7 +9,7 @@
       "name": "Eduardo de Rivero"
     }
   },
-  "host": "127.0.0.1:5000",
+  "host": "https://reposteria-flask-carlos-ayala.herokuapp.com/",
   "basePath": "/",
   "schemes": [
     "https",
